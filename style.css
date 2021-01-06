@@ -1,0 +1,283 @@
+body{
+    margin: 0;
+}
+h1,h2,h3,h4,h5,h6,p{
+
+    font-family: 'Roboto', sans-serif;
+    
+    }
+    
+    .nav pre{
+    
+    float:right;
+    
+    font-family: 'Roboto', sans-serif;
+    
+    word-spacing: 23px;
+    
+    margin-right: 10%;
+    
+    margin-top: 2%;
+    
+    font-weight: bold;
+    }
+    
+    .half-width{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+    
+    .half-width img{
+        width: 467px;
+        margin-top: 29%;
+        margin-left: 20px;
+    }
+    
+    .introduction_me{
+        
+    font-weight: bold;
+        
+    font-size: 50px;
+        
+    color: #363958;
+        
+  
+
+   
+    }
+
+    .my_name{
+        font-weight: bold;
+        color: #FF8367;
+        font-size: 50px;
+    }
+
+    .about{
+        margin-top: 30%;
+    }
+
+    .details_about_me{
+        color:#3E3E3E;
+        font-family: 'Poppins', sans-serif;
+        width: 55%;
+        font-weight: bold;
+        font-size: 13px;
+    }
+
+    .btn a button{
+        text-decoration: none;
+        width: 170px;
+        height: 60px;
+        font-size: 15px;
+        color: white;
+        margin-top:20px;
+        border: 2px solid lightSalmon;
+        border-radius: 5px;
+        background-image: linear-gradient(45deg,lightSalmon,tomato);
+     }
+
+     .about_sec_part2{
+        font-family: 'Poppins', sans-serif;
+        margin-top: 50%;
+        font-size: 30px;
+        font-weight: bold;
+     }
+
+     .info_about_my_work{
+         color:#3E3E3E;
+         width: 87%;
+         font-size: 16px;
+         text-align: inherit;
+     }
+    .margin_left{
+        
+margin-left: 40px;
+    }
+
+    .btn_with_icon{
+         text-decoration: none;
+         width: 170px;
+         height: 60px;
+         font-size: 15px;
+         color: white;
+         font-weight: bold;
+         margin-top:20px;
+         border: 2px solid lightSalmon;
+         border-radius: 5px;
+         background-image: linear-gradient(45deg,lightSalmon,tomato);
+         margin-left: 5.8%;
+    }
+
+    .btn i{
+        
+padding: 5%;
+    }
+
+
+    section{
+        height: 475px;
+    }
+
+
+    .header1{
+
+margin-top: 30%;
+
+text-align: center;
+
+font-size: 21px;
+
+}
+
+
+    .word_design{
+        color:#F46060;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .half_work{
+        width: 20%;
+       margin-left: 5%;
+       padding-left: 4%;
+        float:left;
+    background: white;
+
+    }
+    .working_projects{
+        
+        background: #F8F9FC;
+    }
+    .half_work img{
+        width:343px;
+        height:213px;
+        
+    }
+
+    .header2_design{
+        
+font-size: 18px;
+        
+color: #363958;
+        
+font-weight: bold;
+        
+font-family: 'Roboto', sans-serif;
+        
+margin-left: 3%;
+    }
+
+    .header_details_design{
+        color:#6C6C6C;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+    }
+
+
+    .main_work{
+        
+margin-top: 8%;
+    } 
+
+.banner h1{
+    float: left;
+    padding: 60px;
+    margin-left: 130px;
+    color: white;
+    font-size: 30px;
+    
+}
+
+.chat{
+
+}
+
+.banner{
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 80%;
+    height: 200px;
+    border-radius: 30px;
+    box-shadow: 20px 10px 40px gray;
+    margin-left: 126px;
+}
+
+.icon{
+
+margin-left: 32%;
+}
+.icon img{
+    
+margin-left: 10%;
+    
+width: 32px;
+}
+.footer_title_1{
+
+font-size: 24px;
+
+color: gray;
+
+text-align: center;
+
+margin-top: 38px;
+}
+
+
+footer a{
+
+text-decoration: none;
+
+text-align: center;
+
+font-weight: bold;
+
+font-family: 'Poppins';
+}
+
+
+footer a h1{
+
+text-decoration: none;
+
+list-style-type: none;
+}
+
+.design_project_details{
+    
+margin-left: 3%;
+}
+
+.my_skkils{
+
+width: 20%;
+
+float:left;
+
+margin-left: 3%;
+
+padding-left: 4%;
+}
+.skills{
+
+margin-left: 17%;
+}
+
+.main_skills{
+    
+text-align: center;
+}
+
+.my_skkils i{
+    
+font-size: 93px;
+}
+
+.skills_list{
+    text-align: initial;
+    font-size: 25px;
+    padding-top: 20px;
+}
+
